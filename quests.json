@@ -1,0 +1,708 @@
+{
+  "0": [
+    {
+      "quote": "Чем умнее человек, тем легче он признает себя дураком",
+      "a": {
+        "1": "Альберт Эйнштейн",
+        "2": "Платон",
+        "3": "Диоген",
+        "4": "Илон маск"
+      },
+      "qa": 1,
+      "image": "https://books.atheism.ru/atheists/einstein2.jpg"
+    },
+    {
+      "quote": "Истинная свобода — это освобождение от самого себя.",
+      "a": {
+        "1": "Сенека",
+        "2": "Сократ",
+        "3": "Аристотель",
+        "4": "Платон"
+      },
+      "qa": 1,
+      "image": "https://interesnyefakty.org/wp-content/uploads/seneka-1.jpg"
+    },
+    {
+      "quote": "Человек становится тем, кем он думает.",
+      "a": {
+        "1": "Кант",
+        "2": "Эпиктет",
+        "3": "Ницше",
+        "4": "Сартр"
+      },
+      "qa": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Epictetus_from_L._Annaei_Senecae_philosophi_Opera%2C_1605%2C_title_page_detail.png/248px-Epictetus_from_L._Annaei_Senecae_philosophi_Opera%2C_1605%2C_title_page_detail.png"
+    },
+    {
+      "quote": "Знание без мудрости - как вода без источника.",
+      "a": {
+        "1": "Конфуций",
+        "2": "Лао-Цзы",
+        "3": "Шанкара",
+        "4": "Заратустра"
+      },
+      "qa": 1,
+      "image": "https://scientificrussia.ru/images/d/10sd-full.jpg"
+    },
+    {
+      "quote": "Будь изменением, которое ты хочешь видеть в мире",
+      "a": {
+        "1": "Платон",
+        "2": "Аристотель",
+        "3": "Кант",
+        "4": "Махатма Ганди"
+      },
+      "qa": 4,
+      "image": "https://www.menslife.com/upload/iblock/0e1/gandi_r1r1h1000w1422zc3q100.jpg"
+    },
+    {
+      "quote": "Мысли — это тени чувств.",
+      "a": {
+        "1": "Шопенгауэр",
+        "2": "Сартр",
+        "3": "Левинас",
+        "4": "Фрейд"
+      },
+      "qa": 1,
+      "image": "https://scientificrussia.ru/images/a/119a-full.jpg"
+    },
+    {
+      "quote": "Не печалься о прошлом, не беспокойся о будущем, сосредотачивай ум на настоящем моменте.",
+      "a": {
+        "1": "Эпикур",
+        "2": "Лао-Цзы",
+        "3": "Сократ",
+        "4": "Зенон"
+      },
+      "qa": 2,
+      "image": "https://audio.com/s3w/audio.com.static/collection/image/90/77/1770001321007790-1770001339108329.jpeg"
+    },
+    {
+      "quote": "Истина в том, что ты знаешь, а не в том, что ты слышишь.",
+      "a": {
+        "1": "Платон",
+        "2": "Аристотель",
+        "3": "Сократ",
+        "4": "Эпиктет"
+      },
+      "qa": 1,
+      "image": "https://www.pravoslavie.ru/sas/image/102202/220294.p.jpg?0.3414113759063184"
+    },
+    {
+      "quote": "Человек — это то, что он делает.",
+      "a": {
+        "1": "Жан-Поль Сартр",
+        "2": "Альбер Камю",
+        "3": "Мартин Хайдеггер",
+        "4": "Жан-Жак Руссо"
+      },
+      "qa": 1,
+      "image": "https://storage.yandexcloud.net/wr4img/306407_28_i_025.jpg"
+    },
+    {
+      "quote": "Истинное счастье состоит в способности радоваться простым вещам.",
+      "a": {
+        "1": "Сенека",
+        "2": "Зенофонт",
+        "3": "Луций Анней Сенека",
+        "4": "Эпикур"
+      },
+      "qa": 4,
+      "image": "https://epicurean.su/wp-content/uploads/2021/05/epikur-4.jpg"
+    },
+    {
+      "quote": "Самый трудный путь — это путь внутрь себя.",
+      "a": {
+        "1": "Лао-Цзы",
+        "2": "Фридрих Ницше",
+        "3": "Сократ",
+        "4": "Конфуций"
+      },
+      "qa": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/274px-Nietzsche187a.jpg"
+    },
+    {
+      "quote": "Мудрость начинается с честности к самому себе.",
+      "a": {
+        "1": "Платон",
+        "2": "Эпиктет",
+        "3": "Сенека",
+        "4": "Сократ"
+      },
+      "qa": 3,
+      "image": "https://interesnyefakty.org/wp-content/uploads/seneka-1.jpg"
+    }
+  ],
+  "1": [
+    {
+      "quote": "Что такое пи (π) в математике?",
+      "a": {
+        "1": "Отношение длины окружности к её диаметру",
+        "2": "Корень из -1",
+        "3": "Число Эйлера",
+        "4": "Отношение площади к периметру"
+      },
+      "qa": 1,
+      "image": "https://calculator888.ru/images/chislo_pi/chislo-pi-bolsoe.gif"
+    },
+    {
+      "quote": "Какое правило позволяет перемножать любые три числа в любом порядке, не меняя их произведение?",
+      "a": {
+        "1": "Коммутативность умножения ",
+        "2": "Ассоциативность умножения",
+        "3": "Распределительное свойство",
+        "4": "Нейтральный элемент умножения"
+      },
+      "qa": 2,
+      "image": "https://wikihandbk.com/ruwiki/images/thumb/9/9e/IV-7_4_2_2.png/400px-IV-7_4_2_2.png"
+    },
+    {
+      "quote": "Что такое производная функции в математике?",
+      "a": {
+        "1": "Интеграл функции",
+        "2": "Площадь, заключенная между графиком функции и осью X",
+        "3": "Корень функции",
+        "4": "Отношение изменения функции к изменению её аргумента"
+      },
+      "qa": 4,
+      "image": "https://matemonline.com/wp-content/uploads/2010/06/proiz_2.gif"
+    },
+    {
+      "quote": "Что такое теорема Пифагора?",
+      "a": {
+        "1": "Длина окружности делённая на её диаметр ",
+        "2": "Сумма углов треугольника равна 180 градусам",
+        "3": "Сумма квадратов катетов равна квадрату гипотенузы",
+        "4": "Квадрат гипотенузы равен произведению катетов"
+      },
+      "qa": 3,
+      "image": "https://s1.stc.all.kpcdn.net/putevoditel/projectid_379258/images/tild6138-6164-4335-a461-343266306166__image.png"
+    },
+    {
+      "quote": "Что такое факториал числа?",
+      "a": {
+        "1": "Произведение всех положительных целых чисел до данного числа",
+        "2": "Степень числа",
+        "3": "Отношение двух чисел",
+        "4": "Сумма чисел"
+      },
+      "qa": 1,
+      "image": "https://nicknixer.ru/wp-content/uploads/2016/10/factorial-chisla.png"
+    },
+    {
+      "quote": "Что такое логарифм?",
+      "a": {
+        "1": "Отношение двух чисел",
+        "2": "Сумма двух чисел",
+        "3": "Произведение двух чисел",
+        "4": "Обратная операция возведения в степень"
+      },
+      "qa": 4,
+      "image": "https://api.new.buki.kz/news_image/cp/JN/cpJNQd3C94kj6gONGdCDM9oHlFL1IJwvP8xRHNg5.png"
+    },
+    {
+      "quote": "Какой термин используется для обозначения кратчайшего расстояния между двумя точками на поверхности?",
+      "a": {
+        "1": "Радиус",
+        "2": "Диаметр",
+        "3": "Гипотенуза",
+        "4": "Секущая"
+      },
+      "qa": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Radius_and_diameter.png/300px-Radius_and_diameter.png"
+    },
+    {
+      "quote": "Что такое квадратное уравнение?",
+      "a": {
+        "1": "Линейное уравнение",
+        "2": "Уравнение степени 3",
+        "3": "Уравнение степени 2",
+        "4": "Тригонометрическое уравнение"
+      },
+      "qa": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3IuHaEJO54z3myOhe4c2ketg3I-Wx-TSBVQ&usqp=CAU"
+    },
+    {
+      "quote": "Что такое гипербола?",
+      "a": {
+        "1": "График линейной функции ",
+        "2": "Кривая второго порядка",
+        "3": "Фигура с четырьмя сторонами",
+        "4": "Геометрическое место точек, сумма расстояний от которых до двух фиксированных точек постоянна"
+      },
+      "qa": 4,
+      "image": "https://www.likt590.ru/project/matematika/8/Grafik1.gif"
+    },
+    {
+      "quote": "Что такое тангенс угла в прямоугольном треугольнике?",
+      "a": {
+        "1": "Отношение противоположного катета к прилежащему",
+        "2": "Сумма квадратов катетов равна квадрату гипотенузы",
+        "3": "Угол, равный 90 градусам",
+        "4": "Отношение гипотенузы к противоположенному катету"
+      },
+      "qa": 1,
+      "image": "https://matematika-club.ru/Pics/treugTreg.png"
+    },
+    {
+      "quote": "Что такое комплексные числа?",
+      "a": {
+        "1": "Числа, делящиеся на 2",
+        "2": "Числа вида a + bi, где a и b - вещественные числа, а i - мнимая единица",
+        "3": "Числа, являющиеся степенями 10",
+        "4": "Числа, не имеющие мнимой части"
+      },
+      "qa": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Venn_Diagram_of_Numbers-ru.svg/300px-Venn_Diagram_of_Numbers-ru.svg.png"
+    },
+    {
+      "quote": "Что такое интеграл в математике?",
+      "a": {
+        "1": "Сумма всех чисел в заданном интервале",
+        "2": "Отношение изменения функции к изменению её аргумента",
+        "3": "Предел суммы бесконечно малых приращений функции при стремлении этих приращений к нулю",
+        "4": "Специальный вид уравнения"
+      },
+      "qa": 3,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Integral_Sign.svg/800px-Integral_Sign.svg.png"
+    }
+  ],
+  "2": [
+    {
+      "quote": "Второй закон Ньютона",
+      "a": {
+        "1": "Действие и реакция",
+        "2": "Объект в покое или равномерном движении",
+        "3": "Сила = масса × ускорение",
+        "4": "Сумма энергий постоянна"
+      },
+      "qa": 3,
+      "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSZYPLsmg8uxXZiWBR9YjRJ9Qhf_9vFH4KiFTyhl43MB9srzLen2lHGwASO6CKslZtz"
+    },
+    {
+      "quote": "Закон сохранения энергии",
+      "a": {
+        "1": "Энергия преобразуется ",
+        "2": "Общая энергия постоянна",
+        "3": "Объем газа и давление",
+        "4": "Энергия ∝ масса × скорость²"
+      },
+      "qa": 2,
+      "image": "https://8b08ab88-ee1b-4b04-9ae9-321e0da71ae2.selcdn.net/ec83f1a9-28d5-4d91-91a3-a761c5b7e96a/3%20%281%29.svg"
+    },
+    {
+      "quote": "Теория относительности",
+      "a": {
+        "1": "Пространство-время",
+        "2": "Взаимодействие частиц",
+        "3": "Поведение вещества",
+        "4": "Движение небесных тел"
+      },
+      "qa": 1,
+      "image": "https://spacegid.com/wp-content/uploads/2014/02/24255.jpg"
+    },
+    {
+      "quote": "Квантовая механика",
+      "a": {
+        "1": "Сила тяжести",
+        "2": "Электромагнетизм и оптика",
+        "3": "Структура атома",
+        "4": "Частицы, волны, волновая функция"
+      },
+      "qa": 4,
+      "image": "https://ic.pics.livejournal.com/audiomania/20996176/426231/426231_600.png"
+    },
+    {
+      "quote": "Закон всемирного тяготения",
+      "a": {
+        "1": "Действие и реакция",
+        "2": "Объект в покое или равномерном движении",
+        "3": "Притяжение ∝ массы / расстояние²",
+        "4": "Сила = масса × ускорение"
+      },
+      "qa": 3,
+      "image": "https://onlineschool-1.hb.bizmrg.com/aF22fuztyczy_72.png"
+    },
+    {
+      "quote": "Электромагнитные волны",
+      "a": {
+        "1": "В металлах",
+        "2": "Распространяются в вакууме",
+        "3": "Звуковые волны",
+        "4": "Колебания электрического и магнитного полей"
+      },
+      "qa": 4,
+      "image": "https://electricalschool.info/uploads/posts/2017-04/1491316985_10.jpg"
+    },
+    {
+      "quote": "Ядерное распадение это",
+      "a": {
+        "1": "Слияние ядер",
+        "2": "Превращение ядра, излучение",
+        "3": "Твердое в жидкое при тепле",
+        "4": "Разрушение молекулы светом"
+      },
+      "qa": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNO_Cycle.svg/1200px-CNO_Cycle.svg.png"
+    },
+    {
+      "quote": "Сверхпроводимость это",
+      "a": {
+        "1": "Без сопротивления при температуре",
+        "2": "Пропускание света",
+        "3": "Изменение формы под давлением",
+        "4": "Сопротивление объему"
+      },
+      "qa": 1,
+      "image": "https://elementy.ru/images/eltpub/superconductivity_6_600.jpg"
+    }
+  ],
+  "3": [
+    {
+      "quote": "Какая страна является крупнейшей по площади?",
+      "a": {
+        "1": "Канада",
+        "2": "Россия",
+        "3": "США",
+        "4": "Китай"
+      },
+      "qa": 2,
+      "image": "https://gtmarket.ru/files/flags/Flag_of_Russia.png"
+    },
+    {
+      "quote": "Какое озеро считается самым глубоким в мире?",
+      "a": {
+        "1": "Виктория",
+        "2": "Каспийское",
+        "3": "Байкал",
+        "4": "Танганьика"
+      },
+      "qa": 3,
+      "image": "https://sozvezdie-tour.ru/Images/articles_files/589/baikal_1082592_1280.jpg"
+    },
+    {
+      "quote": "Какая гора является самой высокой на Земле?",
+      "a": {
+        "1": "Эверест",
+        "2": "К2",
+        "3": "Канченджанга",
+        "4": "Макалу"
+      },
+      "qa": 1,
+      "image": "https://cdn2.tu-tu.ru/image/pagetree_node_data/1/32620bb65f7e7443b5bd325aacde70fb/"
+    },
+    {
+      "quote": "В каком океане расположено самое глубокое место на Земле - Бездна Челленджера?",
+      "a": {
+        "1": "Северный Ледовитый",
+        "2": "Атлантический",
+        "3": "Индийский",
+        "4": "Тихий"
+      },
+      "qa": 4,
+      "image": "https://i2.wp.com/fb.ru/misc/i/gallery/20328/1356184.jpg"
+    },
+    {
+      "quote": "Какое государство считается крайней точкой южного полушария?",
+      "a": {
+        "1": "Южная Африка",
+        "2": "Аргентина",
+        "3": "Австралия",
+        "4": "Чили"
+      },
+      "qa": 2,
+      "image"
+      : "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+    {
+      "quote": "Что такое Стратосфера в атмосфере Земли?",
+      "a": {
+        "1": "Слой атмосферы, расположенный выше Тропосферы",
+        "2": "Слой, в котором происходит основная масса атмосферных явлений",
+        "3": "Самый нижний слой атмосферы",
+        "4": "Слой, ближайший к поверхности Земли"
+      },
+      "qa": 1,
+      "image": "https://i.ytimg.com/vi/OjnXclntWa4/maxresdefault.jpg"
+    },
+    {
+      "quote": "Какой материк считается самым холодным?",
+      "a": {
+        "1": "Африка",
+        "2": "Арктика",
+        "3": "Антарктида",
+        "4": "Северная Америка"
+      },
+      "qa": 3,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Antarctic-seas-ru.jpg/280px-Antarctic-seas-ru.jpg"
+    },
+    {
+      "quote": "Какая страна расположена на пересечении линий экватора и нулевого меридиана?",
+      "a": {
+        "1": "Кения",
+        "2": "Эквадор",
+        "3": "Бразилия",
+        "4": "Габон"
+      },
+      "qa": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/0/02/%D0%A0%D0%B5%D0%BB%D1%8C%D0%B5%D1%84_%D0%93%D0%B0%D0%B1%D0%BE%D0%BD%D0%B0.png/380px-%D0%A0%D0%B5%D0%BB%D1%8C%D0%B5%D1%84_%D0%93%D0%B0%D0%B1%D0%BE%D0%BD%D0%B0.png"
+    },
+    {
+      "quote": "Какое озеро считается самым крупным по площади в Африке?",
+      "a": {
+        "1": "Виктория",
+        "2": "Танганьика",
+        "3": "Ньяса",
+        "4": "Чад"
+      },
+      "qa": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Victoriasee.jpg"
+    }
+  ],
+  "4": [
+    {
+      "quote": "What is the plural form of 'child'?",
+      "a": {
+        "1": "Childrens",
+        "2": "Childs",
+        "3": "Childes",
+        "4": "Children"
+      },
+      "qa": 4,
+      "image": "https://media.istockphoto.com/id/1204017888/vector/childrens-drawings.jpg?s=612x612&w=0&k=20&c=qcwbuRMettYE_ZbWjNc8F0HlMRVgXAbgh0q7CCe26Rw="
+    },
+    {
+      "quote": "Which word is a synonym for 'vocabulary'?",
+      "a": {
+        "1": "Dictionary",
+        "2": "Grammar",
+        "3": "Paragraph",
+        "4": "Sentence"
+      },
+      "qa": 1,
+      "image": "https://www.collinsdictionary.com/images/full/dictionary_168552845.jpg"
+    },
+    {
+      "quote": "What is the correct past tense of 'go'?",
+      "a": {
+        "1": "Goed",
+        "2": "Gone",
+        "3": "Went",
+        "4": "Goes"
+      },
+      "qa": 3,
+      "image": "https://media.istockphoto.com/id/484221829/vector/kids-go-to-school.jpg?s=612x612&w=0&k=20&c=RWQYirNvqq33S5fuQ3wEMT9w5C6TU1J31dtmbgcsJBI="
+    },
+    {
+      "quote": "Which sentence is in the present continuous tense?",
+      "a": {
+        "1": "She will go to the store later.",
+        "2": "They are playing tennis now.",
+        "3": "He ate lunch an hour ago.",
+        "4": "I read a book every day."
+      },
+      "qa": 2,
+      "image": "https://lingualeo.com/ru/blog/wp-content/uploads/2023/06/8-Present-Continuous.png"
+    },
+    {
+      "quote": "What is the opposite of 'brave'?",
+      "a": {
+        "1": "Fearless",
+        "2": "Cowardly",
+        "3": "Confident",
+        "4": "Bold"
+      },
+      "qa": 2,
+      "image": "https://www.shutterstock.com/image-vector/courage-cowardly-dog-cartoon-character-600nw-2343958353.jpg"
+    },
+    {
+      "quote": "Which word is a preposition?",
+      "a": {
+        "1": "Jump",
+        "2": "Under",
+        "3": "Quickly",
+        "4": "Beautiful"
+      },
+      "qa": 2,
+      "image": "https://media.baamboozle.com/uploads/images/524469/1643795096_123148.png"
+    },
+    {
+      "quote": "What is the comparative form of 'good'?",
+      "a": {
+        "1": "Better",
+        "2": "Best",
+        "3": "Gooder",
+        "4": "Goodest"
+      },
+      "qa": 1,
+      "image": "https://minutes.co/wp-content/uploads/2019/10/shutterstock_1174621573-e1570913118271.jpg"
+    },
+    {
+      "quote": "Which sentence is in the past perfect tense?",
+      "a": {
+        "1": "She will finish her work soon.",
+        "2": "They have already eaten dinner.",
+        "3": "He is studying for the exam.",
+        "4": "We are going to the beach tomorrow."
+      },
+      "qa": 2,
+      "image": "https://cdn.langeek.co/photo/17253/original/present-perfect"
+    },
+    {
+      "quote": "What is the plural of 'person'?",
+      "a": {
+        "1": "Peoples",
+        "2": "Persons",
+        "3": "People",
+        "4": "Personal"
+      },
+      "qa": 3,
+      "image": "https://www.freevector.com/uploads/vector/preview/28523/Group-of-People.jpg"
+    },
+    {
+      "quote": "Which word is a conjunction?",
+      "a": {
+        "1": "Fast",
+        "2": "And",
+        "3": "Jump",
+        "4": "Blue"
+      },
+      "qa": 2,
+      "image": "https://www.webdesignerdepot.com/cdn-origin/uploads/ampersand//applechancery.jpg"
+    },
+    {
+      "quote": "What is the past participle of 'eat'?",
+      "a": {
+        "1": "Ate",
+        "2": "Eating",
+        "3": "Eaten",
+        "4": "Eats"
+      },
+      "qa": 3,
+      "image": "https://www.motherjones.com/wp-content/uploads/sandwich-630.gif?w=990"
+    },
+    {
+      "quote": "Which sentence is grammatically correct?",
+      "a": {
+        "1": "I am good at maths.",
+        "2": "I am good in maths.",
+        "3": "I am good with maths.",
+        "4": "I am good for maths."
+      },
+      "qa": 3,
+      "image": "https://media.time4learning.com/uploads/help-your-kids-with-math-featured.png"
+    }
+  ],
+  "5": [
+    {
+      "quote": "Кто был основателем Рима в римской мифологии?",
+      "a": {
+        "1": "Ромул",
+        "2": "Юлий Цезарь",
+        "3": "Аугуст",
+        "4": "Нерон"
+      },
+      "qa": 1,
+      "image":"https://rus.team/images/article/48897/2019-04-11-580_82115-1_618834.webp"
+    },
+    {
+      "quote": "Какое событие считается началом Великой Французской Революции?",
+      "a": {
+        "1": "Взятие Бастилии (14 июля 1789 года)",
+        "2": "Крещение Руси",
+        "3": "Битва при Ватерлоо",
+        "4": "Наполеоновские реформы"
+      },
+      "qa": 1,
+      "image": "https://cdnn21.img.ria.ru/images/149835/01/1498350136_318:0:2192:1874_1920x0_80_0_0_b7131aa3b400ade11006215b57ee4e78.jpg"
+    },
+    {
+      "quote": "Кто был первым императором Китая?",
+      "a": {
+        "1": "Цинь Шихуанди",
+        "2": "Хань Гаоди",
+        "3": "Тан Ши Хуанди",
+        "4": "Мин Чжучжу"
+      },
+      "qa": 1,
+      "image": "https://cs12.pikabu.ru/post_img/big/2020/08/22/5/1598077774135396689.png"
+    },
+    {
+      "quote": "Кто был фараоном во времена Исхода евреев из Египта?",
+      "a": {
+        "1": "Рамсес II",
+        "2": "Тутмос III",
+        "3": "Аменхотеп III",
+        "4": "Хеопс"
+      },
+      "qa": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Luxor_temple24.JPG/300px-Luxor_temple24.JPG"
+    },
+    {
+      "quote": "Какой год считается началом Великой Отечественной войны?",
+      "a": {
+        "1": "1941",
+        "2": "1942",
+        "3": "1943",
+        "4": "1944"
+      },
+      "qa": 1,
+      "image": "https://rmbs-ufa.ru/images/test/test.jpg"
+    },
+    {
+      "quote": "Кто был первым космонавтом?",
+      "a": {
+        "1": "Юрий Гагарин",
+        "2": "Алан Шепард",
+        "3": "Юрий Алексеев",
+        "4": "Нил Армстронг"
+      },
+      "qa": 1,
+      "image": "https://biblioclub.ru/services/fks.php?fks_action=get_file&fks_id=31762774&fks_flag=2"
+    },
+    {
+      "quote": "Какое событие предшествовало началу Первой мировой войны?",
+      "a": {
+        "1": "Убийство архидука Франца Фердинанда",
+        "2": "Подписание Тройственного союза",
+        "3": "Окончание Крымской войны",
+        "4": "Взятие Бастилии"
+      },
+      "qa": 1,
+      "image": "https://gwar.mil.ru/upload/famous/franz_ferdinand.jpg"
+    },
+    {
+      "quote": "Какая династия правила в Древнем Египте при фараоне Хеопсе?",
+      "a": {
+        "1": "IV династия",
+        "2": "XX династия",
+        "3": "XII династия",
+        "4": "I династия"
+      },
+      "qa": 1,
+      "image": "https://thepyramids.org/images/louvre_museum/501_09_louvre_museum.jpg"
+    },
+    {
+      "quote": "Кто был лидером Октябрьской революции 1917 года в России?",
+      "a": {
+        "1": "Владимир Ленин",
+        "2": "Иосиф Сталин",
+        "3": "Александр Керенский",
+        "4": "Николай II"
+      },
+      "qa": 1,
+      "image": "https://cdn-media.tass.ru/width/1020_b9261fa1/tass/m2/uploads/i/20160227/4195086.jpg"
+    },
+    {
+      "quote": "Какое событие привело к началу Тридцатилетней войны?",
+      "a": {
+        "1": "Дефенестрация в Праге",
+        "2": "Подписание Вестфальского мира",
+        "3": "Битва при Лейпциге",
+        "4": "Основание Лиги Камбрейской"
+      },
+      "qa": 1,
+      "image": "https://ruski.radio.cz/sites/default/files/styles/facebook/public/images/defenestrace_1419.jpg?itok=XPAtS1c1"
+    }
+  ]
+}
